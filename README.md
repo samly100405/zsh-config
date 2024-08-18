@@ -1,6 +1,6 @@
 # the best zsh config for beginners
 
-[![Full Video](https://img.youtube.com/vi/8PRP1Z5s2WY/default.jpg)](https://youtu.be/8PRP1Z5s2WY)
+[![Full Video](https://img.youtube.com/vi/8PRP1Z5s2WY/0.jpg)](https://youtu.be/8PRP1Z5s2WY)
 
 
 ## 1:53 - installing zsh
